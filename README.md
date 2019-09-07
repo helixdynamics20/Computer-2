@@ -1,7 +1,7 @@
 # Computer-2
 Designed on logisim. 
 
-1. Instruction to Run
-2. Install Logisim
-3. Import all files to Logisim
-4. Run MAIN PC.circ
+Instruction to Run
+1. Install Logisim
+2. Import all files to Logisim
+3. Run MAIN PC.circ
